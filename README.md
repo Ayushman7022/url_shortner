@@ -43,20 +43,18 @@ URL Shortening Page
 This page allows users to enter a long URL, optionally provide a custom alias and expiry time, and generate a shortened URL.
 
 Image:
-(Add screenshot link here)
 Example:
 
-/screenshots/url-shortener-dashboard.png
+url.png
 
 Analytics Dashboard
 
 The analytics dashboard allows users to enter a short URL and view detailed insights such as total clicks, browser usage, operating system distribution, and last accessed time.
 
 Image:
-(Add screenshot link here)
 Example:
 
-/screenshots/analytics-dashboard.png
+Analytics.png
 
 API Endpoints
 Create Short URL
@@ -93,3 +91,4 @@ Run the Spring Boot application
 Public analytics sharing
 
 Deployment on cloud platform
+
