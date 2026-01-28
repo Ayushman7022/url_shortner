@@ -45,7 +45,7 @@ This page allows users to enter a long URL, optionally provide a custom alias an
 Image:
 Example:
 
-url.png
+<img src="url.png" width="250"/>
 
 Analytics Dashboard
 
@@ -54,8 +54,7 @@ The analytics dashboard allows users to enter a short URL and view detailed insi
 Image:
 Example:
 
-Analytics.png
-
+<img src="Analytics.png" width="250"/>
 API Endpoints
 Create Short URL
 POST /api/urls
@@ -91,4 +90,5 @@ Run the Spring Boot application
 Public analytics sharing
 
 Deployment on cloud platform
+
 
